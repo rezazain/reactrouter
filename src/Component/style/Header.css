@@ -1,0 +1,20 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Navbar ul li {
+  list-style: none;
+  font-weight: bold;
+  margin-right: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.Navbar ul {
+  display: flex;
+  justify-content: space-between;
+}
+.Navbar a {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,46 @@
+.register-container {
+  width: 30%;
+  padding: 10px;
+  border: 1px solid;
+  margin: 0 auto;
+  margin-top: 30px;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 10px black;
+  align-items: center;
+}
+.register-container input {
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.Email,
+.Sandi {
+  width: 84%;
+}
+.Nama {
+  width: 38%;
+  margin: 2px;
+}
+.create {
+  color: gray;
+}
+select {
+  width: 20%;
+  padding: 6px;
+  margin: 3px;
+}
+
+.register-container button {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: rgb(77, 77, 247);
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+}
